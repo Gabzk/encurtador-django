@@ -1,0 +1,10 @@
+[project]
+name = "encurtador-django"
+version = "0.1.0"
+description = "Projeto de estudo de Django e Django REST Framework em um encurtador de URLs"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "django>=6.0.2",
+    "djangorestframework>=3.16.1",
+]
